@@ -13,9 +13,8 @@ USTCer.
 
 ## Education
 
-`Sep2017 – Jun2021`
+`Sep2017 – now`
 **B.S., Computer Science**, *University of Science and Technology of China*<br/>
-
 *GPA: 3.44/4.30 | WAVG: 84.78*
 
 `Sep2014 – Jun2017`
@@ -36,7 +35,7 @@ I attended Java Bridging Course (AEARU Summer 2018-2019), which gave me a basic 
 `Apr2019 - Jun2019`
 **Reading Group of Advanced Data Systems Laboratory**, *ADSL, University of Sicence and Technology of China*
 
-Every Wednesday, a senior will share with us a paper in the field of systems. These papers are fromSOSP19/ATC19/SIGMOD19 etc.
+Every Wednesday, a senior will share with us a paper in the field of systems. These papers are fromSOSP19/ATC19/SIGMOD19 etc. Taught us by example "how to do high-quality research".
 
 `Feb2019`
 **2019 Winter in Fribourg Program**, *University of Fribourg*, Swiss
@@ -68,7 +67,7 @@ Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 [See whole record here.](https://github.com/kitamado/my-mooc-certificates)
 
 ### Courses
-* [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))
+- [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))
 
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) @ *University of Michigan* (Currently working on)
   - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
@@ -83,10 +82,10 @@ Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 
 
 ## Languages
-Chinese: Native
-English: Highly proficent 
-Japanese: Able to watch japanese anime without subtitles.
-French/German: Novice
+Chinese: Native<br/>
+English: Highly proficent <br/>
+Japanese: Able to watch Japanese anime without subtitles.<br/>
+French/German: Novice<br/>
 
 
 
