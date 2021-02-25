@@ -67,16 +67,15 @@ Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 [See whole record here.](https://github.com/kitamado/my-mooc-certificates)
 
 ### Courses
-- [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))
-- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
-
-- [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891))
-- [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))
+- [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))<br/>
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))<br/>
+- [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891))<br/>
+- [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))<br/>
 
 ### Finished Specializations
 
-* [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) @ *University of Michigan* ([certificate](https://coursera.org/share/f95d2f2f54e3e916bd73fb30840b4431))
-* [Python for Everybody](https://www.coursera.org/specializations/python) @ *University of Michigan* ([certificate](https://coursera.org/share/cb1b054cc8f0e87b3f263ebe16ce4d88))
+* [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) @ *University of Michigan* ([certificate](https://coursera.org/share/f95d2f2f54e3e916bd73fb30840b4431))<br/>
+* [Python for Everybody](https://www.coursera.org/specializations/python) @ *University of Michigan* ([certificate](https://coursera.org/share/cb1b054cc8f0e87b3f263ebe16ce4d88))<br/>
 
 
 
