@@ -3,13 +3,12 @@ layout: cv
 title: Shunyu Wu's CV
 ---
 # Shunyu Wu
-USTCer.
+Undergraduate, University of Science and Technology of China
 
 <div id="webaddress">
- <a href="kitamado.github.io"><i class="fas fa-home"></i>kitamado.github.io</a>
-| <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/"><i class="fas fa-linkedin"></i> LinkedIn</a>
+  <a href="https://kitamado.github.io"><i class="fas fa-home"></i>kitamado.github.io</a> | 
+  <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/"><i class="fas fa-linkedin"></i>LinkedIn</a><br/>
 </div>
-
 
 ## Currently
 
