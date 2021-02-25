@@ -3,7 +3,7 @@ layout: cv
 title: Shunyu Wu's CV
 ---
 # Shunyu Wu
-USTCer.
+Undergraduate at USTC
 
 <div id="webaddress">
 <a href="mailto:sy-wu@yandex.com" title="click to email">sy-wu@yandex.com</a>
@@ -21,7 +21,7 @@ USTCer.
 *Hangzhou No.2 High School*，Zhejiang, China
 
 ## Skills
-C/C++, MATLAB, Python, Java, MySQL, Verilog, Git, bash, LaTeX, HTML/CSS/JS, linux, Origin<br/>
+C/C++, MATLAB, Python, Java, MySQL, Verilog, Git, bash, LaTeX, HTML/CSS/JS, Vue,linux, Origin<br/>
 
 *Python* - Jupyter, SciPy, pandas, matplotlib, PIL, pytesseract, cv2, sqlite3, requests
 
@@ -50,7 +50,7 @@ Using flex, bison, risc-v_llvm toolchian etc. to build a C- language complier. I
 
 `Jan2021`
 
-**Detect faces in newspaper pages with certain names**, *Python Project: pillow, tesseract, and opencv*, Coursera
+**Detect faces in newspaper pages with certain keywords**, *Python Project: pillow, tesseract, and opencv*, Coursera
 
 Search through the images looking for the occurrences of keywords ad faces. Gain the ability of using OpenCV to detect faces, using tesseract to do optical character recognition and using PIL to composite images together into contact sheets.
 
@@ -67,6 +67,7 @@ Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 [See whole record here.](https://github.com/kitamado/my-mooc-certificates)
 
 ### Courses
+
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))
 
 - [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) @ *University of Michigan* (Currently working on)
