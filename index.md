@@ -67,11 +67,9 @@ Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 [See whole record here.](https://github.com/kitamado/my-mooc-certificates)
 
 ### Courses
-
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) @ *Stanford University* ([certificate](https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a))
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
 
-- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) @ *University of Michigan* (Currently working on)
-  - [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) @ *University of Michigan* ([certificate](https://coursera.org/share/9936a845ef182117b2a94c1792386890))
 - [Microeconomics Principles](https://www.coursera.org/learn/microeconomics) @ *University of Illinois at Urbana-Champaign* ([certificate](https://coursera.org/share/33e600bebdcef627c679373d89b2d891))
 - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) @ *The University of Edinburgh* ([certificate](https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3))
 
