@@ -7,8 +7,8 @@ Undergraduate at USTC
 
 <div id="webaddress">
 <a href="mailto:sy-wu@yandex.com" title="click to email">sy-wu@yandex.com</a>
-| <a href="kitamado.github.io"><i class="fas fa-home"></i>kitamado.github.io</a>
-| <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/"><i class="fas fa-linkedin"></i> LinkedIn</a>
+| <a href="https://kitamado.github.io">kitamado.github.io</a>
+| <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/">LinkedIn</a>
 </div>
 
 ## Education
