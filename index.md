@@ -6,8 +6,8 @@ title: Shunyu Wu's CV
 USTCer.
 
 <div id="webaddress">
-| <a href="kitamado.github.io">kitamado.github.io</a>
-| <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/">LinkedIn</a>
+ <a href="kitamado.github.io"><i class="fas fa-home"></i>kitamado.github.io</a>
+| <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/"><i class="fas fa-linkedin"></i> LinkedIn</a>
 </div>
 
 
@@ -27,11 +27,11 @@ USTCer.
 ## Education
 
 `Sep2017 – Jun2021`
-__B.S.  University of Science and Technology of China.__
-Computer Science
+**B.S., Computer Science**, *University of Science and Technology of China*, Hefei, China
+
 
 `Sep2014 – Jun2017`
-__Hangzhou No.2 High School__
+*Hangzhou No.2 High School*, Zhejiang, China
 
 
 
