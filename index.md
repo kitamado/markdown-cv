@@ -44,7 +44,7 @@ Every Wednesday, a senior will share with us a paper in the field of systems. Th
 `Feb2021 - now`
 **Research on Methods of Accelerating Adversarial Training**,  *University of Sicence and Technology of China*
 
-working on my bachelor thesis now.
+working on my bachelor thesis now. *tools: Pytorch"
 
 ## Projects
 
