@@ -40,6 +40,12 @@ Every Wednesday, a senior will share with us a paper in the field of systems. Th
 `Feb2019`
 **2019 Winter in Fribourg Program**, *University of Fribourg*, Swiss
 
+### Currently
+`Feb2021 - now`
+**Research on Methods of Accelerating Adversarial Training**,  *University of Sicence and Technology of China*
+
+working on my bachelor thesis now.
+
 ## Projects
 
 `Sep2019 - Jan2020`
