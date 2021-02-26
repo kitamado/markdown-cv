@@ -54,14 +54,6 @@ Using flex, bison, risc-v_llvm toolchian etc. to build a C- language complier. I
 
 Search through the images looking for the occurrences of keywords ad faces. Gain the ability of using OpenCV to detect faces, using tesseract to do optical character recognition and using PIL to composite images together into contact sheets.
 
-## Awards
-
-`Aug2019`
-AEARU Summer Institute Outstanding Academic Performance Award in COMP1029J, *HKUST*
-
-`Sep2017`
-Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
-
 ## Coursera Certificate(selected)
 
 [See whole record here.](https://github.com/kitamado/my-mooc-certificates)
@@ -77,6 +69,13 @@ Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 * [Python 3 Programming](https://www.coursera.org/specializations/python-3-programming) @ *University of Michigan* ([certificate](https://coursera.org/share/f95d2f2f54e3e916bd73fb30840b4431))<br/>
 * [Python for Everybody](https://www.coursera.org/specializations/python) @ *University of Michigan* ([certificate](https://coursera.org/share/cb1b054cc8f0e87b3f263ebe16ce4d88))<br/>
 
+## Awards
+
+`Aug2019`
+AEARU Summer Institute Outstanding Academic Performance Award in COMP1029J, *HKUST*
+
+`Sep2017`
+Talent Program in Information Science and Technology, Tuition Waiver, *USTC*
 
 
 ## Languages
