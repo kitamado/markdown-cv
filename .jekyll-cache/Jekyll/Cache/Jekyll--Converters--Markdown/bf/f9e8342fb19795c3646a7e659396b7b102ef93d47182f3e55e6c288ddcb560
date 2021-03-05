@@ -1,0 +1,90 @@
+I"X<h1 id="shunyu-wu">Shunyu Wu</h1>
+<p>Undergraduate at USTC</p>
+
+<div id="webaddress">
+<a href="mailto:sy-wu@yandex.com" title="click to email">sy-wu@yandex.com</a>
+| <a href="https://kitamado.github.io">kitamado.github.io</a>
+| <a href="https://www.linkedin.com/in/shunyu-wu-5a51231a3/">LinkedIn</a>
+</div>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Sep2017 – now</code>
+<strong>B.S., Computer Science</strong>, <em>University of Science and Technology of China</em><br />
+<em>GPA: 3.44/4.30 | WAVG: 84.78</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">Sep2014 – Jun2017</code>
+<em>Hangzhou No.2 High School</em>，Zhejiang, China</p>
+
+<h2 id="skills">Skills</h2>
+<p>C/C++, MATLAB, Python, Java, MySQL, Verilog, Git, bash, LaTeX, HTML/CSS/JS, Vue,linux, Origin<br /></p>
+
+<p><em>Python</em> - Jupyter, SciPy, pandas, matplotlib, PIL, pytesseract, cv2, sqlite3, requests</p>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Jul2019</code> 
+<strong>AEARU Summer Institute for Extended Flipped Education by HKUST and Tokyo Tech</strong>, <em>Hong Kong University of Science and Technology</em></p>
+
+<p>I attended Java Bridging Course (AEARU Summer 2018-2019), which gave me a basic understanding of JAVA. I continued to get more grasp of Java by following CS61B from Berkeley online.</p>
+
+<p><code class="language-plaintext highlighter-rouge">Apr2019 - Jun2019</code>
+<strong>Reading Group of Advanced Data Systems Laboratory</strong>, <em>ADSL, University of Sicence and Technology of China</em></p>
+
+<p>Every Wednesday, a senior will share with us a paper in the field of systems. These papers are fromSOSP19/ATC19/SIGMOD19 etc. Taught us by example “how to do high-quality research”.</p>
+
+<p><code class="language-plaintext highlighter-rouge">Feb2019</code>
+<strong>2019 Winter in Fribourg Program</strong>, <em>University of Fribourg</em>, Swiss</p>
+
+<h2 id="projects">Projects</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Sep2019 - Jan2020</code></p>
+
+<p><strong>CMinus Complier</strong>, <em>Compiler Principles Course</em>, 2019 Fall</p>
+
+<p>Using flex, bison, risc-v_llvm toolchian etc. to build a C- language complier. Including lexical analyzer, syntax analyzer, IR generator, use <em>Pass</em> to optimiza IR in LLVM, use Spike RISC-V simulator, read <em>RegAllocFast.cpp</em> from LLVM and understand code generation.</p>
+
+<p><code class="language-plaintext highlighter-rouge">Jan2021</code></p>
+
+<p><strong>Detect faces in newspaper pages with certain keywords</strong>, <em>Python Project: pillow, tesseract, and opencv</em>, Coursera</p>
+
+<p>Search through the images looking for the occurrences of keywords ad faces. Gain the ability of using OpenCV to detect faces, using tesseract to do optical character recognition and using PIL to composite images together into contact sheets.</p>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Aug2019</code>
+AEARU Summer Institute Outstanding Academic Performance Award in COMP1029J, <em>HKUST</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">Sep2017</code>
+Talent Program in Information Science and Technology, Tuition Waiver, <em>USTC</em></p>
+
+<h2 id="coursera-certificateselected">Coursera Certificate(selected)</h2>
+
+<p><a href="https://github.com/kitamado/my-mooc-certificates">See whole record here.</a></p>
+
+<h3 id="courses">Courses</h3>
+<ul>
+  <li><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> @ <em>Stanford University</em> (<a href="https://coursera.org/share/39de6ba3aea075f324c531d0a1ae469a">certificate</a>)<br /></li>
+  <li><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a> @ <em>University of Michigan</em> (<a href="https://coursera.org/share/9936a845ef182117b2a94c1792386890">certificate</a>)<br /></li>
+  <li><a href="https://www.coursera.org/learn/microeconomics">Microeconomics Principles</a> @ <em>University of Illinois at Urbana-Champaign</em> (<a href="https://coursera.org/share/33e600bebdcef627c679373d89b2d891">certificate</a>)<br /></li>
+  <li><a href="https://www.coursera.org/learn/edinburgh-music-theory">Fundamentals of Music Theory</a> @ <em>The University of Edinburgh</em> (<a href="https://coursera.org/share/10830dfb19e41c4325073bcfbc984ea3">certificate</a>)<br /></li>
+</ul>
+
+<h3 id="finished-specializations">Finished Specializations</h3>
+
+<ul>
+  <li><a href="https://www.coursera.org/specializations/python-3-programming">Python 3 Programming</a> @ <em>University of Michigan</em> (<a href="https://coursera.org/share/f95d2f2f54e3e916bd73fb30840b4431">certificate</a>)<br /></li>
+  <li><a href="https://www.coursera.org/specializations/python">Python for Everybody</a> @ <em>University of Michigan</em> (<a href="https://coursera.org/share/cb1b054cc8f0e87b3f263ebe16ce4d88">certificate</a>)<br /></li>
+</ul>
+
+<h2 id="languages">Languages</h2>
+<p>Chinese: Native<br />
+English: Highly proficent <br />
+Japanese: Able to watch Japanese anime without subtitles.<br />
+French/German: Novice<br /></p>
+
+<!-- ### Footer
+
+Last updated: Feb 2021 -->
+
+:ET
