@@ -23,7 +23,7 @@ Undergraduate at USTC
 ## Skills
 C/C++, MATLAB, Python, Java, MySQL, Verilog, Git, bash, LaTeX, HTML/CSS/JS, Vue,linux, Origin<br/>
 
-*Python* - Jupyter, SciPy, pandas, matplotlib, PIL, pytesseract, cv2, sqlite3, requests
+*Python* - Jupyter, TensorFlow, SciPy, pandas, matplotlib, PIL, pytesseract, cv2, sqlite3, requests
 
 ## Experience 
 
@@ -59,6 +59,12 @@ Using flex, bison, risc-v_llvm toolchian etc. to build a C- language complier. I
 **Detect faces in newspaper pages with certain keywords**, *Python Project: pillow, tesseract, and opencv*, Coursera
 
 Search through the images looking for the occurrences of keywords ad faces. Gain the ability of using OpenCV to detect faces, using tesseract to do optical character recognition and using PIL to composite images together into contact sheets.
+
+`Feb2021`
+
+**Stock price prediction**, TensorFlow project
+
+Use tensorflow keras to build DNN, CNN, and RNN model to do stock prediction. Implement DNN and CNN in classification ways (classified and labeled based on stock rise percent) and implement RNN in regulation ways (predict close price). Then use trained model to do backtrade and see performance.
 
 ## Coursera Certificate(selected)
 
